@@ -6,3 +6,5 @@
 
 1. 본인이 맡은 부분 업로드 / 상황에 따라서 팀장이 한꺼번에 업로드 할 수 있음
 2. 개발 중 이슈는 이슈에다가 업로드
+
+[최종발표안내.pdf](https://github.com/user-attachments/files/23850833/default.pdf)
